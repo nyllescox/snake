@@ -1,7 +1,7 @@
 # Snake
 Classic Snake Game
 
-To download this project into your workspace, enter this command into your bash terminal:
+To download this project into your workspace, first change into your project folder directory (i.e. cd ashton-martin.github.io/projects) to make sure your project is properly downloaded with your other projects. Then, enter this command into your bash terminal:
 
     git clone https://github.com/ashton-martin/snake.git
 
