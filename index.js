@@ -25,7 +25,7 @@ var KEY = {
   LEFT: 37,
   UP: 38,
   RIGHT: 39,
-  DOWN: 40
+  DOWN: 40,
 };
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -34,6 +34,7 @@ var KEY = {
 
 // turn on keyboard inputs
 $('body').on('keydown', setNextDirection);
+
 
 // start the game
 init();
@@ -87,7 +88,8 @@ function moveSnake() {
   */
   
   
-
+/*you can delete this later*/
+/*you can delete this later*/
   
   /* 
   TODO 5: determine the next row and column for the snake's head
